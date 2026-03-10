@@ -66,6 +66,7 @@ plt.show()
 ```
 
 ## Output:
+<img width="1246" height="507" alt="ML-EX-11" src="https://github.com/user-attachments/assets/81fb5d6b-f55c-40d6-aa31-43af81c8fb45" />
 
 
 ## Result:
